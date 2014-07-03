@@ -1,0 +1,7 @@
+{
+    "agencyId": "84473",
+    "username": "___USERNAME___",
+    "password": "___PASSWORD___",
+    "wsdlUrl": "https://www5.hud.gov/ARM/ARM?wsdl",
+    "serviceUrl": "https://www5.hud.gov/ARM/ARM"
+}
